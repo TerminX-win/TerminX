@@ -1,5 +1,5 @@
 # TerminX
-![Logo}(terminx.png)
+![Logo](terminx.png)
 **A windows terminal with advanced settings**
 ## Usage
 **TerminX** is a better Windows terminal, allowing you to customize the terminal with:
