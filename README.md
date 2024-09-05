@@ -1,5 +1,5 @@
 # TerminX
-![Logo]([https://raw.githubusercontent.com/sabplay/TerminX/main/terminx.ico](https://iili.io/dkQ73kx.png))
+![Logo]((https://iili.io/dkQ73kx.png)
 **A windows terminal with advanced settings**
 ## Usage
 **TerminX** is a better Windows terminal, allowing you to customize the terminal with:
