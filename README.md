@@ -1,4 +1,5 @@
 # TerminX
+**‼️This edition of TerminX is now officially deprecated‼️**
 ![Logo](terminx.png)
 
 
